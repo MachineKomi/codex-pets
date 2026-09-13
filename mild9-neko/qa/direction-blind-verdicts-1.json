@@ -1,0 +1,16 @@
+{"pairs":[
+{"pair":"horizontal-1","A":"screen-left","B":"screen-right","reason":"A raised nose projects left; B raised face and eyes bias right."},
+{"pair":"horizontal-2","A":"screen-right","B":"screen-left","reason":"A nose and visible cheek turn right; B lifted nose profile points left."},
+{"pair":"horizontal-3","A":"screen-right","B":"screen-left","reason":"A face profile projects right; B nose and mouth project left."},
+{"pair":"horizontal-4","A":"screen-left","B":"screen-right","reason":"A nose and eye face left; B nose and eye face right."},
+{"pair":"horizontal-5","A":"screen-right","B":"screen-left","reason":"A lowered face turns right; B lowered face turns left."},
+{"pair":"horizontal-6","A":"screen-right","B":"screen-left","reason":"A bowed nose points right beneath hair; B bowed nose and face angle left."},
+{"pair":"horizontal-7","A":"screen-left","B":"screen-right","reason":"A bowed face has slight leftward nose and eye bias; B bowed face has slight rightward nose and eye bias."},
+{"pair":"vertical-1","A":"down","B":"up","reason":"A chin tucks and crown is visible; B exposes chin underside with face lifted overhead."},
+{"pair":"vertical-2","A":"up","B":"down","reason":"A raises chin and eyes; B bows head and eyes toward chest."},
+{"pair":"vertical-3","A":"up","B":"down","reason":"A lifts nose and gaze; B lowers nose and gaze beneath forward hair."},
+{"pair":"vertical-4","A":"down","B":"up","reason":"A tucks chin and directs visible eyes down; B rightward nose and chin angle upward."},
+{"pair":"vertical-5","A":"down","B":"up","reason":"A bows her head with downward eyes; B lifts chin with upward eyes."},
+{"pair":"vertical-6","A":"down","B":"up","reason":"A downward nose and tucked chin indicate down; B raised nose and chin indicate up."},
+{"pair":"vertical-7","A":"up","B":"down","reason":"A leftward profile slightly raises nose and gaze; B leftward profile lowers nose and chin."}
+]}

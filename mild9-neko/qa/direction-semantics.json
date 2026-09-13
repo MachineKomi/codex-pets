@@ -1,0 +1,24 @@
+{
+ "ok":true,
+ "method":"Independent blind axis review followed by cleaned labeled ordered-cell review; no live playback claim",
+ "directions":[
+ {"direction":"000","verdict":"pass","expected":"up","observed":"up","reason":"Frontal nose and eyes point toward screen top; chin underside is exposed above the extended neck."},
+ {"direction":"022.5","verdict":"warning","expected":"up-right","observed":"up-right","reason":"Chin and eyes lift upward, while nose and face bias slightly screen-right; horizontal component is subtle at pet size."},
+ {"direction":"045","verdict":"pass","expected":"up-right","observed":"up-right","reason":"Nose projects screen-right and raised chin and eye line clearly supply upward pitch."},
+ {"direction":"067.5","verdict":"warning","expected":"up-right","observed":"up-right","reason":"Rightward profile remains clear with chin and eyes raised slightly; exact separation from neighboring angle is subtle."},
+ {"direction":"090","verdict":"pass","expected":"screen-right","observed":"screen-right","reason":"Nose tip and mouth project to screen-right of head center; visible eye faces image right and far cheek is occluded."},
+ {"direction":"112.5","verdict":"pass","expected":"down-right","observed":"down-right","reason":"Nose and visible face point right while chin and eyes angle down beneath the brows."},
+ {"direction":"135","verdict":"pass","expected":"down-right","observed":"down-right","reason":"Bowed crown and downward gaze combine with nose projecting toward screen-right."},
+ {"direction":"157.5","verdict":"warning","expected":"down-right","observed":"down-right","reason":"Deep chin tuck and downward eyes dominate; visible face and nose retain a slight rightward bias."},
+ {"direction":"180","verdict":"pass","expected":"down","observed":"down","reason":"Frontal head bows toward screen bottom, exposing crown; eyes and nose point toward chest below head center."},
+ {"direction":"202.5","verdict":"warning","expected":"down-left","observed":"down-left","reason":"Chin remains tucked with downward eyes and a slight leftward nose/face bias; near-axis horizontal component is subtle."},
+ {"direction":"225","verdict":"warning","expected":"down-left","observed":"down-left","reason":"Nose and eye line clearly turn left while bowed head preserves down pitch; transition from 202.5 changes hair/face more strongly but has no wrong quadrant or body-scale jump."},
+ {"direction":"247.5","verdict":"pass","expected":"down-left","observed":"down-left","reason":"Left-projecting nose and cheek combine with lowered chin and eyes."},
+ {"direction":"270","verdict":"warning","expected":"screen-left","observed":"screen-left","reason":"Nose tip and mouth project screen-left of head center, visible eye aims toward image left and far cheek is occluded; incoming pitch change is stronger but direction and body scale remain coherent."},
+ {"direction":"292.5","verdict":"warning","expected":"up-left","observed":"up-left","reason":"Clear leftward nose profile combines with slightly raised chin and gaze; vertical component is subtle at pet size."},
+ {"direction":"315","verdict":"pass","expected":"up-left","observed":"up-left","reason":"Leftward nose/face orientation and raised chin/upward eyes both read clearly."},
+ {"direction":"337.5","verdict":"warning","expected":"up-left","observed":"up-left","reason":"Upward eyes and exposed chin underside dominate with residual leftward nose/face turn; exact angular increment is approximate."}
+ ],
+ "errors":[],
+ "warnings":["Near-axis distinctions and exact 22.5-degree increments are approximate at pet size.","Continuity diff outliers 202.5->225 and 247.5->270 visually remain in correct progression, with stable lower-body scale and anchors; accepted as nonuniform head/hair changes."]
+}

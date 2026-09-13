@@ -1,0 +1,13 @@
+{
+  "jumping": {
+    "decision": "stable-slots",
+    "reason": "Auto per-frame fit normalizes each pose bbox, which removes intended jump displacement; source worker confirmed consistent head scale and clear apex. Preserve original slot-relative elevation with shared-scale stable slots.",
+    "deterministic": "pass with explicit stable-slots visual-review warning",
+    "visual_review": "Independent standard reviewer passed natural scale and displacement"
+  },
+  "failed": {
+    "decision": "stable-slots",
+    "reason": "Preserve deep slump displacement instead of per-frame fit enlarging lowered figure",
+    "visual_review": "Independent standard reviewer passed"
+  }
+}

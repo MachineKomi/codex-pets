@@ -1,0 +1,31 @@
+{
+  "ok": true,
+  "spriteVersionNumber": 2,
+  "run_dir": "C:/codex-pets/mild9-neko",
+  "package": "C:/Users/hawki/.codex/pets/mild9-neko",
+  "portable_package": "pets/mild9-neko",
+  "zip": "final/mild9-neko.zip",
+  "spritesheet": "final/spritesheet-extended.webp",
+  "sha256": "c2b7bc00cd073cb7ce04edf506e0a5ce891af14b38064a65325e40f483a36b0a",
+  "generation": "Built-in OpenAI imagegen, exact model identifier unavailable",
+  "standard_review": "qa/standard-visual-qa.json",
+  "final_review": "qa/final-visual-qa.json",
+  "direction_semantics": "qa/direction-semantics.json",
+  "blind_direction_validation": "qa/direction-blind-validation.json",
+  "continuity": "qa/look-continuity.json",
+  "chroma_despill": "qa/chroma-despill-extended.json",
+  "validation": "final/validation-extended.json",
+  "installed_validation": "qa/installed-validation.json",
+  "verification": [
+    "All9 states and16 directions independently reviewed",
+    "Smoking idle hand-to-lips drag and attached exhale confirmed",
+    "Blind majority passes all14 pairs",
+    "ZIP byte-equivalent to package",
+    "Selective installer and idempotent rerun passed"
+  ],
+  "limitations": [
+    "Motion reviewed in ordered frames, not live Codex app playback.",
+    "Intermediate gaze distinctions and two continuity diff outliers accepted by visual review.",
+    "Worker cap required reuse of target-blind reviewers; see execution notes."
+  ]
+}

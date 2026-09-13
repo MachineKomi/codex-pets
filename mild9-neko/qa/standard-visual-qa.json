@@ -1,0 +1,21 @@
+{
+  "ok": true,
+  "scope": "Nine standard animation rows only; no Mild9 gaze imagery or prompts inspected",
+  "method": "Contact-sheet ordered frame sequences, source idle strip, focused final cells and first-frame GIF preview; no live playback claim",
+  "states": {
+    "idle": "pass: cigarette moves from lips to fingers for a drag, then away; one brief mouth-attached gray exhalation is visible before reset, with planted feet",
+    "running-right": "pass: all frames face right with alternating long and passing steps",
+    "running-left": "pass: all frames face left with alternating long and passing steps",
+    "waving": "pass: raised hand wave with planted lower body",
+    "jumping": "pass: stable-slots preserves crouch, ascent, airborne apex, descent and crouched landing without enlarged head",
+    "failed": "pass: stable-slots preserves drooping posture and lowered defeated slump without scale expansion",
+    "waiting": "pass: questioning hand and expectant gestures distinguish input request",
+    "running": "pass: forehead/temple concentration shows task processing without locomotion",
+    "review": "pass: thoughtful inspecting posture, chin gesture and lean distinguish review"
+  },
+  "identity": "pass: coherent mature tan cat woman, pale blonde dark roots, sleepy smudged eyes, stained white cropped tee, frayed denim shorts, silver navel piercing and dirty white socks",
+  "anatomy": "pass: connected limbs and socked feet, intact tail and cigarette contact in reviewed cells; no clipping or major within-row scale popping",
+  "smoking_requirement": "pass: idle includes hand-to-lips drag, removal, attached short exhalation and reset; single cigarette retained",
+  "accepted_warnings": ["GIF tool displays a still frame; animation was assessed from ordered frame sequences, not real-time playback.", "Pre-despill fringe is deferred to final cleanup and is not a generation-repair finding."],
+  "errors": []
+}

@@ -20,6 +20,15 @@
       "spritesheetSha256": "f10e47b2ebf8ff677852df9cedb2f7fa9fb411a3771f08d97a3956991636a6f7"
     },
     {
+      "id": "mild9-neko",
+      "displayName": "Mild9 Neko",
+      "path": "pets/mild9-neko",
+      "spriteVersionNumber": 2,
+      "width": 1536,
+      "height": 2288,
+      "spritesheetSha256": "c2b7bc00cd073cb7ce04edf506e0a5ce891af14b38064a65325e40f483a36b0a"
+    },
+    {
       "id": "mimi-moonbyte",
       "displayName": "Mimi Moonbyte",
       "path": "pets/mimi-moonbyte",

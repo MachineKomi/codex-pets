@@ -1,0 +1,16 @@
+{
+  "attempts": [
+    {
+      "job": "waving",
+      "result": "moderation_blocked",
+      "categories": [
+        "sexual"
+      ],
+      "request_id": "fd2823b2-7275-4d02-b8e5-f5d73f3c93e7",
+      "asset_created": false,
+      "next": "One retry with explicitly nonsexual adult character animation framing and opaque comfortable clothing."
+    }
+  ],
+  "note": "A blocked attempt is not a completed image or repair.",
+  "resolution": "Waving retry succeeded with the same requested clothing and neutral nonsexual adult animation framing; selected output decoded/waving.png."
+}

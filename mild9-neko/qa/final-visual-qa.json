@@ -1,0 +1,12 @@
+{
+ "ok":true,
+ "method":"Cleaned contact-sheet ordered sequences and direction sheet, with prior focused idle/source/frame checks; GIF viewer supplies a still frame, so no live playback or app-runtime acceptance is claimed",
+ "standards":{"idle":"pass: drag, hand withdrawal, brief attached exhalation, reset","running-right":"pass: right-facing alternating strides","running-left":"pass: left-facing alternating strides","waving":"pass: raised hand wave","jumping":"pass: stable-scale crouch/ascent/apex/descent","failed":"pass: lowered defeated slump without enlargement","waiting":"pass: expectant asking gesture","running":"pass: temple/forehead concentration without travel","review":"pass: inspecting lean and thoughtful gestures"},
+ "smoking":{"ok":true,"reason":"Idle visibly brings fingers to lip cigarette, draws cigarette away, exhales one short mouth-attached wisp and resets; one cigarette retained."},
+ "anatomy":{"ok":true,"reason":"Connected arms, legs, socked feet, tail and cigarette; consistent mature tan identity, pale blonde dark roots, dirty white crop, denim shorts and navel piercing; no major clipping or body-scale jumps in cleaned sequences."},
+ "continuity":{"ok":true,"reason":"All16 directions follow the correct clockwise quadrants, including repaired final up-left poses and both wrap boundaries. Diff outliers 202.5->225 and 247.5->270 reflect larger face/hair changes, not wrong direction, reversal, or body-scale jump.","reviewed_outliers":["202.5->225","247.5->270"]},
+ "chroma":{"ok":true,"closed":true,"reason":"Successful final validation and edge-local despill with preserved alpha; no additional cleanup requested."},
+ "acceptedwarnings":["Near-axis differences and exact angular increments are subtle/nonuniform.","Two continuity pixel-difference outliers accepted after ordered-cell visual inspection."],
+ "limitations":["Ordered frames inspected; real-time GIF playback and Codex runtime were not observed."],
+ "errors":[]
+}

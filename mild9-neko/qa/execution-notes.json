@@ -1,0 +1,8 @@
+{
+  "worker_strategy": "Reuse available workers one visual job per turn because prior spawn attempts exhausted thread cap. Preserve Mild9 gaze blindness for all three existing reviewers; parent generates gaze.",
+  "user_requested_idle": "Cigarette drag and brief attached mouth wisp supersede default no-item-interaction idle preference. No detached smoke clouds.",
+  "recovery": "Three row workers stalled at pending_init following user steering; interrupted queued jobs, generated idle directly, then restarted existing workers successfully. New worker spawn still rejected by thread cap. Existing workers remain target-blind to Mild9 gaze.",
+  "blind_review": "Three existing isolated workers remained target-blind to Mild9 gaze prompts and labeled images until their A/B classifications. Fresh worker creation unavailable due thread cap.",
+  "reference_limit": "A rejected padding-repair attempt used target strip in place of standard contact sheet due builtin maximum5reference paths. The final selected coherent body-lock row used ALL standard required references: canonical,guide,approved contact sheet,cardinals,row9.",
+  "despill_recovery": "First invocation raised MemoryError before saving any output or report. Same unmodified tool and arguments retried successfully; exactly one successful cleanup applied. Validator passed; chroma QA closed."
+}

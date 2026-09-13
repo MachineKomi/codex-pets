@@ -1,0 +1,29 @@
+{
+  "attempts": [
+    {
+      "source": "decoded/look-row-10-failed-quadrant.png",
+      "result": "rejected",
+      "reason": "Final pose 337.5 looks up-right rather than requested up-left; wrong quadrant is a hard failure.",
+      "packaging_eligible": false
+    },
+    {
+      "source": "decoded/look-row-10-failed-edge.png",
+      "result": "rejected",
+      "reason": "Direction180 has44 pixels near final edge under approved fixed row9 scale",
+      "packaging_eligible": false
+    },
+    {
+      "source": "decoded/look-row-10-failed-small.png",
+      "result": "rejected",
+      "reason": "Padding edit reduced source figure height to549-559px versus row9 near650px, creating unacceptable size drift.",
+      "packaging_eligible": false
+    }
+  ],
+  "repair": "Regenerate complete eight-frame row, preserving explicit left yaw through final four poses.",
+  "selected": {
+    "source": "decoded/look-row-10.png",
+    "generation": "Complete coherent strip edit grounded in row9 body scale, with allhead directions changed to left arc",
+    "structural": "Default fixed-row9-scale registration and edge checks pass",
+    "independent_final_review": "Pass with accepted minor-angle and continuity warnings"
+  }
+}
