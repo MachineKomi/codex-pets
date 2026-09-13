@@ -1,0 +1,17 @@
+{
+  "ok": true,
+  "spriteVersionNumber": 2,
+  "run_dir": "C:\\codex-pets\\mild8-neko",
+  "package": "C:\\Users\\hawki\\.codex\\pets\\mild8-neko",
+  "spritesheet": "C:\\codex-pets\\mild8-neko\\final\\spritesheet-extended.webp",
+  "validation": "C:\\codex-pets\\mild8-neko\\final\\validation-extended.json",
+  "chroma_despill": "C:\\codex-pets\\mild8-neko\\qa\\chroma-despill-extended.json",
+  "direction_semantics": "C:\\codex-pets\\mild8-neko\\qa\\direction-semantics.json",
+  "blind_direction_validation": "C:\\codex-pets\\mild8-neko\\qa\\direction-blind-validation.json",
+  "continuity": "C:\\codex-pets\\mild8-neko\\qa\\look-continuity.json",
+  "contact_sheet": "C:\\codex-pets\\mild8-neko\\qa\\contact-sheet-extended.png",
+  "visual_qa": "C:\\codex-pets\\mild8-neko\\qa\\final-visual-qa.json",
+  "generation_mode": "built-in OpenAI image generator; exact model not exposed",
+  "completed_at": "2026-09-13T17:02:00.2538707Z",
+  "runtime_tested": false
+}

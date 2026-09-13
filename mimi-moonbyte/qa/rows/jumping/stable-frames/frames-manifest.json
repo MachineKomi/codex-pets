@@ -1,0 +1,25 @@
+{
+  "ok": true,
+  "chroma_key": {
+    "hex": "#FF00FF",
+    "rgb": [
+      255,
+      0,
+      255
+    ],
+    "threshold": 96.0
+  },
+  "rows": [
+    {
+      "state": "jumping",
+      "frames": [
+        "C:\\codex-pets\\mimi-moonbyte\\qa\\rows\\jumping\\stable-frames\\jumping\\00.png",
+        "C:\\codex-pets\\mimi-moonbyte\\qa\\rows\\jumping\\stable-frames\\jumping\\01.png",
+        "C:\\codex-pets\\mimi-moonbyte\\qa\\rows\\jumping\\stable-frames\\jumping\\02.png",
+        "C:\\codex-pets\\mimi-moonbyte\\qa\\rows\\jumping\\stable-frames\\jumping\\03.png",
+        "C:\\codex-pets\\mimi-moonbyte\\qa\\rows\\jumping\\stable-frames\\jumping\\04.png"
+      ],
+      "method": "stable-slots"
+    }
+  ]
+}

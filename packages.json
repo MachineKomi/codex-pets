@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "pets": [
+    {
+      "id": "mild8-neko",
+      "displayName": "Mild8 Neko",
+      "path": "pets/mild8-neko",
+      "spriteVersionNumber": 2,
+      "width": 1536,
+      "height": 2288,
+      "spritesheetSha256": "f10e47b2ebf8ff677852df9cedb2f7fa9fb411a3771f08d97a3956991636a6f7"
+    },
+    {
+      "id": "mimi-moonbyte",
+      "displayName": "Mimi Moonbyte",
+      "path": "pets/mimi-moonbyte",
+      "spriteVersionNumber": 2,
+      "width": 1536,
+      "height": 2288,
+      "spritesheetSha256": "ddfbc946477f1ccdab3ff0364b2c7525c9278e4067c1e9c1c1d72d2381ab3c05"
+    }
+  ]
+}

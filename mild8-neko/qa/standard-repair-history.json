@@ -1,0 +1,9 @@
+{
+  "initial_visual_qa": "fail",
+  "structural_checks": "pass",
+  "repair_rows": ["running-left", "jumping"],
+  "findings": {
+    "running-left": "Fixed-slot mirror cut generated pose boundaries, creating detached fragments despite structural pass. Fresh grounded row generation requested.",
+    "jumping": "Per-component fitting removed vertical travel and altered apparent scale. Re-extracted with existing stable-slots correction for independent review."
+  }
+}

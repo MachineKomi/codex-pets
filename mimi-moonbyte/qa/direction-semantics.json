@@ -1,0 +1,167 @@
+{
+  "directions": [
+    {
+      "expected": "up",
+      "horizontal": "centered",
+      "reason": "Final independent visual review confirms intended axis and coherent loop; intermediate angular subtlety accepted",
+      "reviewed_by": "final_qa",
+      "vertical": "raised eyes and chin",
+      "verdict": "pass",
+      "observed": "centered; raised eyes and chin",
+      "direction": "000"
+    },
+    {
+      "expected": "up-right",
+      "horizontal": "slight rightward shift",
+      "reason": "Final independent visual review confirms intended axis and coherent loop; intermediate angular subtlety accepted",
+      "reviewed_by": "final_qa",
+      "vertical": "upward read retained",
+      "verdict": "warning",
+      "observed": "slight rightward shift; upward read retained",
+      "direction": "022.5"
+    },
+    {
+      "expected": "up-right",
+      "horizontal": "clear rightward head and gaze",
+      "reason": "Final independent visual review confirms intended axis and coherent loop; intermediate angular subtlety accepted",
+      "reviewed_by": "final_qa",
+      "vertical": "raised eyes",
+      "verdict": "pass",
+      "observed": "clear rightward head and gaze; raised eyes",
+      "direction": "045"
+    },
+    {
+      "expected": "up-right",
+      "horizontal": "strong right-facing",
+      "reason": "Final independent visual review confirms intended axis and coherent loop; intermediate angular subtlety accepted",
+      "reviewed_by": "final_qa",
+      "vertical": "subtle upward cue",
+      "verdict": "warning",
+      "observed": "strong right-facing; subtle upward cue",
+      "direction": "067.5"
+    },
+    {
+      "expected": "right",
+      "horizontal": "strongest rightward profile",
+      "reason": "Final independent visual review confirms intended axis and coherent loop; intermediate angular subtlety accepted",
+      "reviewed_by": "final_qa",
+      "vertical": "level",
+      "verdict": "pass",
+      "observed": "strongest rightward profile; level",
+      "direction": "090"
+    },
+    {
+      "expected": "down-right",
+      "horizontal": "right head turn",
+      "reason": "Final independent visual review confirms intended axis and coherent loop; intermediate angular subtlety accepted",
+      "reviewed_by": "final_qa",
+      "vertical": "lowered gaze",
+      "verdict": "warning",
+      "observed": "right head turn; lowered gaze",
+      "direction": "112.5"
+    },
+    {
+      "expected": "down-right",
+      "horizontal": "slight rightward gaze",
+      "reason": "Final independent visual review confirms intended axis and coherent loop; intermediate angular subtlety accepted",
+      "reviewed_by": "final_qa",
+      "vertical": "clear downward gaze",
+      "verdict": "warning",
+      "observed": "slight rightward gaze; clear downward gaze",
+      "direction": "135"
+    },
+    {
+      "expected": "down-right",
+      "horizontal": "weak rightward bias",
+      "reason": "Final independent visual review confirms intended axis and coherent loop; intermediate angular subtlety accepted",
+      "reviewed_by": "final_qa",
+      "vertical": "strong downward read",
+      "verdict": "warning",
+      "observed": "weak rightward bias; strong downward read",
+      "direction": "157.5"
+    },
+    {
+      "expected": "down",
+      "horizontal": "centered face",
+      "reason": "Final independent visual review confirms intended axis and coherent loop; intermediate angular subtlety accepted",
+      "reviewed_by": "final_qa",
+      "vertical": "chin lowered, eyes beneath brow",
+      "verdict": "pass",
+      "observed": "centered face; chin lowered, eyes beneath brow",
+      "direction": "180"
+    },
+    {
+      "expected": "down-left",
+      "horizontal": "slight screen-left facial turn",
+      "reason": "Final independent visual review confirms intended axis and coherent loop; intermediate angular subtlety accepted",
+      "reviewed_by": "final_qa",
+      "vertical": "strong downward chin pitch",
+      "verdict": "pass",
+      "observed": "slight screen-left facial turn; strong downward chin pitch",
+      "direction": "202.5"
+    },
+    {
+      "expected": "down-left",
+      "horizontal": "more screen-left face and gaze",
+      "reason": "Final independent visual review confirms intended axis and coherent loop; intermediate angular subtlety accepted",
+      "reviewed_by": "final_qa",
+      "vertical": "chin visibly lowered",
+      "verdict": "pass",
+      "observed": "more screen-left face and gaze; chin visibly lowered",
+      "direction": "225"
+    },
+    {
+      "expected": "down-left",
+      "horizontal": "clear leftward gaze",
+      "reason": "Final independent visual review confirms intended axis and coherent loop; intermediate angular subtlety accepted",
+      "reviewed_by": "final_qa",
+      "vertical": "downward pitch; similar to preceding pose",
+      "verdict": "warning",
+      "observed": "clear leftward gaze; downward pitch; similar to preceding pose",
+      "direction": "247.5"
+    },
+    {
+      "expected": "left",
+      "horizontal": "nose and face profile project screen-left",
+      "reason": "Final independent visual review confirms intended axis and coherent loop; intermediate angular subtlety accepted",
+      "reviewed_by": "final_qa",
+      "vertical": "approximately level gaze",
+      "verdict": "pass",
+      "observed": "nose and face profile project screen-left; approximately level gaze",
+      "direction": "270"
+    },
+    {
+      "expected": "up-left",
+      "horizontal": "face and pupils point screen-left",
+      "reason": "Final independent visual review confirms intended axis and coherent loop; intermediate angular subtlety accepted",
+      "reviewed_by": "final_qa",
+      "vertical": "raised chin and upward gaze",
+      "verdict": "warning",
+      "observed": "face and pupils point screen-left; raised chin and upward gaze",
+      "direction": "292.5"
+    },
+    {
+      "expected": "up-left",
+      "horizontal": "clear leftward bias",
+      "reason": "Final independent visual review confirms intended axis and coherent loop; intermediate angular subtlety accepted",
+      "reviewed_by": "final_qa",
+      "vertical": "upward increase subtle",
+      "verdict": "warning",
+      "observed": "clear leftward bias; upward increase subtle",
+      "direction": "315"
+    },
+    {
+      "expected": "up-left",
+      "horizontal": "reduced leftward turn",
+      "reason": "Final independent visual review confirms intended axis and coherent loop; intermediate angular subtlety accepted",
+      "reviewed_by": "final_qa",
+      "vertical": "stronger upward chin and eyes",
+      "verdict": "pass",
+      "observed": "reduced leftward turn; stronger upward chin and eyes",
+      "direction": "337.5"
+    }
+  ],
+  "continuity": "Both row boundaries pass; no scale or anchor discontinuity",
+  "warnings": "Minor angular spacing only",
+  "ok": true
+}

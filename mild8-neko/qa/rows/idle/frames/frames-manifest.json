@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "chroma_key": {
+    "hex": "#00FF00",
+    "rgb": [
+      0,
+      255,
+      0
+    ],
+    "threshold": 96.0
+  },
+  "rows": [
+    {
+      "state": "idle",
+      "frames": [
+        "C:\\codex-pets\\mild8-neko\\qa\\rows\\idle\\frames\\idle\\00.png",
+        "C:\\codex-pets\\mild8-neko\\qa\\rows\\idle\\frames\\idle\\01.png",
+        "C:\\codex-pets\\mild8-neko\\qa\\rows\\idle\\frames\\idle\\02.png",
+        "C:\\codex-pets\\mild8-neko\\qa\\rows\\idle\\frames\\idle\\03.png",
+        "C:\\codex-pets\\mild8-neko\\qa\\rows\\idle\\frames\\idle\\04.png",
+        "C:\\codex-pets\\mild8-neko\\qa\\rows\\idle\\frames\\idle\\05.png"
+      ],
+      "method": "components"
+    }
+  ]
+}

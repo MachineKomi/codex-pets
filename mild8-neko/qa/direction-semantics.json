@@ -1,0 +1,23 @@
+{
+ "semanticApproval":true,"overallVerdict":"pass_with_warnings","reviewer":"independent look_full_qa",
+ "coordinateSystem":"Approximate screen coordinates in 1536x1170 qa/look-directions.png",
+ "directions":[
+ {"direction":"000","expected":"up","observed":"Centered raised chin/upward eyes","verdict":"pass","reason":"Horizontal nose x86 aligns torso; vertical nose y282/chin y301 show raised head above shoulders y314."},
+ {"direction":"022.5","expected":"up-right","observed":"Raised face with right bias","verdict":"warning","reason":"Clear vertical lift, subtle rightward eye/nose bias at normal size, no wrong quadrant."},
+ {"direction":"045","expected":"up-right","observed":"Rightward face, lifted chin","verdict":"pass","reason":"Rightward facial projection and upward pitch both readable."},
+ {"direction":"067.5","expected":"up-right","observed":"Right turn, slight up tilt","verdict":"warning","reason":"Strong horizontal right; shallow up component consistent with near-horizontal angle."},
+ {"direction":"090","expected":"right","observed":"Level right profile","verdict":"pass","reason":"Nose x865 right of neck x853; eye y283/nose y291/chin y304 establish level profile."},
+ {"direction":"112.5","expected":"down-right","observed":"Right face with lowered gaze","verdict":"pass","reason":"Clear rightward nose; eyes/chin lower from right cardinal."},
+ {"direction":"135","expected":"down-right","observed":"Bowed right face","verdict":"pass","reason":"Right facial displacement and lowered gaze visible."},
+ {"direction":"157.5","expected":"down-right","observed":"Down face, slight right bias","verdict":"warning","reason":"Strong down pitch; subtle right bias beneath bangs without reversal."},
+ {"direction":"180","expected":"down","observed":"Centered bowed head","verdict":"pass","reason":"Nose x86 aligned neck x86; crown y503/nose y532/chin y545 shortened neck above shoulders y548."},
+ {"direction":"202.5","expected":"down-left","observed":"Down face, slight left bias","verdict":"warning","reason":"Unmistakable down; modest leftward nose and eye bias."},
+ {"direction":"225","expected":"down-left","observed":"Bowed left face","verdict":"pass","reason":"Left projection and downward eyeline visible."},
+ {"direction":"247.5","expected":"down-left","observed":"Left face, slight down pitch","verdict":"pass","reason":"Clear left nose; eyes/chin lowered relative left cardinal."},
+ {"direction":"270","expected":"left","observed":"Level left profile","verdict":"pass","reason":"Nose x838 left of neck x853; eye y517/nose y524/chin y539 level profile."},
+ {"direction":"292.5","expected":"up-left","observed":"Left face lifting chin","verdict":"pass","reason":"Clear left face with raised gaze/visible lower jaw for upward cue."},
+ {"direction":"315","expected":"up-left","observed":"Upper-left head lift","verdict":"pass","reason":"Upward eyes/raised chin and left facial projection."},
+ {"direction":"337.5","expected":"up-left","observed":"Mostly up with slight left","verdict":"warning","reason":"Strong vertical lift; weak but consistent left cue at normal size."}
+ ],
+ "continuity":{"verdict":"pass_with_warning","orderedProgression":"Coherent clockwise quadrants without reversal","bodyAnchor":"Torso hips hands legs socks tail consistent; no conspicuous translation or scale snap","boundary157.5To180":"Accepted minor local difference: change concentrated in bowed head/bangs; center delta0.5px area ratio1.0067, no conspicuous body/scale/identity jump","boundary337.5To000":"Pass: lifted face returns center, center delta1px area ratio1.0030, no conspicuous wrap snap","anatomyAndProps":"No disconnected limb/joint/sock/foot/ear/tail. Cigarette foreshortening without obvious detachment","blockingFailures":[]}
+}

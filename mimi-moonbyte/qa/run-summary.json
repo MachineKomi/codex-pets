@@ -1,0 +1,23 @@
+{
+  "contact_sheet": "C:\\codex-pets\\mimi-moonbyte\\qa\\contact-sheet-extended.png",
+  "blind_direction_validation": "C:\\codex-pets\\mimi-moonbyte\\qa\\direction-blind-validation.json",
+  "extraction_corrections": 1,
+  "review": "C:\\codex-pets\\mimi-moonbyte\\qa\\review.json",
+  "package": "C:\\Users\\hawki\\.codex\\pets\\mimi-moonbyte",
+  "imagegen_jobs": 13,
+  "chroma_despill": "C:\\codex-pets\\mimi-moonbyte\\qa\\chroma-despill-extended.json",
+  "ok": true,
+  "spriteVersionNumber": 2,
+  "run_dir": "C:\\codex-pets\\mimi-moonbyte",
+  "elapsed_minutes": 27.88,
+  "runtime_app_launch_verified": false,
+  "direction_semantics": "C:\\codex-pets\\mimi-moonbyte\\qa\\direction-semantics.json",
+  "validation": "C:\\codex-pets\\mimi-moonbyte\\final\\validation-extended.json",
+  "continuity": "C:\\codex-pets\\mimi-moonbyte\\qa\\look-continuity.json",
+  "visual_review": "C:\\codex-pets\\mimi-moonbyte\\qa\\final-visual-review.json",
+  "spritesheet": "C:\\codex-pets\\mimi-moonbyte\\final\\spritesheet-extended.webp",
+  "imagegen_retries": 2,
+  "blind_review_resolution": "C:\\codex-pets\\mimi-moonbyte\\qa\\blind-review-resolution.json",
+  "direction_sheet": "C:\\codex-pets\\mimi-moonbyte\\qa\\look-directions.png",
+  "cleanup_status": "Temporary files retained because automatic approval review blocked cleanup"
+}

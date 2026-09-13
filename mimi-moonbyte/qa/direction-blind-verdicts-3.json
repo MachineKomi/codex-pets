@@ -1,0 +1,88 @@
+{
+  "pairs": [
+    {
+      "reason": "Nose, facial center and pupils turn toward classified side",
+      "A": "screen-left",
+      "pair": "horizontal-1",
+      "B": "screen-right"
+    },
+    {
+      "reason": "Nose, facial center and pupils turn toward classified side",
+      "A": "screen-right",
+      "pair": "horizontal-2",
+      "B": "screen-left"
+    },
+    {
+      "reason": "Nose, facial center and pupils turn toward classified side",
+      "A": "screen-right",
+      "pair": "horizontal-3",
+      "B": "screen-left"
+    },
+    {
+      "reason": "Nose, facial center and pupils turn toward classified side",
+      "A": "screen-right",
+      "pair": "horizontal-4",
+      "B": "screen-left"
+    },
+    {
+      "reason": "Nose, facial center and pupils turn toward classified side",
+      "A": "screen-right",
+      "pair": "horizontal-5",
+      "B": "screen-left"
+    },
+    {
+      "reason": "Nose, facial center and pupils turn toward classified side",
+      "A": "screen-left",
+      "pair": "horizontal-6",
+      "B": "screen-right"
+    },
+    {
+      "reason": "Nose, facial center and pupils turn toward classified side",
+      "A": "screen-right",
+      "pair": "horizontal-7",
+      "B": "screen-left"
+    },
+    {
+      "reason": "Raised chin and high pupils indicate up; tucked face and lowered eyes indicate down",
+      "A": "up",
+      "pair": "vertical-1",
+      "B": "down"
+    },
+    {
+      "reason": "Raised chin and high pupils indicate up; tucked face and lowered eyes indicate down",
+      "A": "up",
+      "pair": "vertical-2",
+      "B": "down"
+    },
+    {
+      "reason": "Raised chin and high pupils indicate up; tucked face and lowered eyes indicate down",
+      "A": "up",
+      "pair": "vertical-3",
+      "B": "down"
+    },
+    {
+      "reason": "Both primarily sideways; vertical chin and pupil differences unclear",
+      "A": "ambiguous",
+      "pair": "vertical-4",
+      "B": "ambiguous"
+    },
+    {
+      "reason": "Raised chin and high pupils indicate up; tucked face and lowered eyes indicate down",
+      "A": "down",
+      "pair": "vertical-5",
+      "B": "up"
+    },
+    {
+      "reason": "Raised chin and high pupils indicate up; tucked face and lowered eyes indicate down",
+      "A": "up",
+      "pair": "vertical-6",
+      "B": "down"
+    },
+    {
+      "reason": "A primarily leftward without clear vertical gaze; B lowered eyes and tucked chin",
+      "A": "ambiguous",
+      "pair": "vertical-7",
+      "B": "down"
+    }
+  ]
+}

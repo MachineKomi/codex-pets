@@ -1,0 +1,16 @@
+{
+ "row":9,"overall":"pass-with-warnings","reviewer":"independent look9_qa",
+ "directions":{
+ "000":{"verdict":"pass","expected":"up","observed":"up","reason":"Face centered; chin lifted, underside exposed, eyes above level."},
+ "022.5":{"verdict":"pass","expected":"up-right","observed":"up-right","reason":"Nose and face shift screen-right inside hair silhouette; raised chin and upward eyes."},
+ "045":{"verdict":"warning","expected":"up-right","observed":"up-right","reason":"Face points right, chin elevated; upward cue subtle and close to previous frame."},
+ "067.5":{"verdict":"warning","expected":"up-right","observed":"up-right","reason":"Nose right of head center, slight remaining upward pitch; small adjacent difference."},
+ "090":{"verdict":"pass","expected":"screen-right","observed":"screen-right","reason":"Nose/cigarette project right and features occupy right of head beneath hair; eye line/chin approximately level."},
+ "112.5":{"verdict":"warning","expected":"down-right","observed":"down-right","reason":"Face remains right, eyes/nose lower relative to ears; subtle downward pitch."},
+ "135":{"verdict":"pass","expected":"down-right","observed":"down-right","reason":"Nose right of head center, bowed head, lowered eyelids, chin near chest."},
+ "157.5":{"verdict":"warning","expected":"down-right","observed":"down-right","reason":"Face nearly centered with weak right bias; pronounced downward pitch and visible crown."}
+ },
+ "continuity":{"overall":"pass","reason":"All seven adjacent steps progress up through right to down without reversal; fixed feet/torso/tail scale and framing match idle. Neck joins plausible, no clipping or detached limbs. Cigarette visibility consistent with foreshortening."},
+ "edge_check":"assembly completed with unchanged default post-registration edge thresholds",
+ "chroma_note":"Intermediate fringe is expected before the single final despill pass."
+}

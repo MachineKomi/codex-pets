@@ -1,0 +1,5 @@
+{"event":"standard_rows_pass","rows":9,"structural_errors":0,"visual_correction":"jumping stable-slots extraction","regenerations":0}
+{"event":"cardinals_pass","count":4,"reviewed_by":"cardinal_qa"}
+{"event":"row9_pass","directions":8,"reviewed_warnings":["022.5","067.5","135","157.5"]}
+{"event":"row10_retry","reason":"180 source pose showed back view instead of chin-down gaze","action":"full coherent row regeneration"}
+{"event":"row10_retry_2","reason":"left cardinal incorrectly reused rightward yaw","action":"full coherent row regeneration anchored to approved left cardinal"}

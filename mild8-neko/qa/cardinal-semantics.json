@@ -1,0 +1,10 @@
+{
+ "overall":"pass",
+ "reviewer":"independent cardinal_qa worker",
+ "directions": {
+  "000":{"verdict":"warning","expected":"up","observed":"up","reason":"Chin raised, nose about local (88,24), upward eyes (82,20)/(96,20). Tiny pale cigarette-tip candidate about (88,27) naturally overlaps upper lip in near end-on projection; no confirmed missing or broken prop. Accepted foreshortening legibility warning."},
+  "090":{"verdict":"pass","expected":"screen-right","observed":"screen-right","reason":"Nose and mouth project right around (100,28-33); attached cigarette extends toward (110,36)."},
+  "180":{"verdict":"pass","expected":"down","observed":"down","reason":"Lowered chin and downward eyes around (84,29)/(97,29), cigarette descends from (92,38) to (89,45)."},
+  "270":{"verdict":"pass","expected":"screen-left","observed":"screen-left","reason":"Nose and mouth project left around (80,29-33), cigarette extends left toward (73,35)."}
+ }
+}
