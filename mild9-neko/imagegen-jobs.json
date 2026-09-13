@@ -66,7 +66,10 @@
       },
       "mirror_policy": {},
       "source_path": "C:\\Users\\hawki\\.codex\\generated_images\\01a09b9a-0c78-7c62-a99a-19ea2fed9a6e\\exec-a93f383e-c064-41ac-a341-a432919a0ba2.png",
-      "completed_at": "2026-09-13T18:05:15.3827513Z"
+      "completed_at": "2026-09-13T18:05:15.3827513Z",
+      "frame_overrides": {
+        "04": "repairs/idle-single-cigarette/frame-04-raw.png"
+      }
     },
     {
       "id": "running-right",

@@ -92,7 +92,7 @@
           "file": "C:\\codex-pets\\mild9-neko\\frames\\idle\\04.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 9954,
+          "nontransparent_pixels": 9960,
           "bbox": [
             57,
             5,
@@ -100,7 +100,7 @@
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 38
+          "chroma_adjacent_pixels": 13
         },
         {
           "index": 5,

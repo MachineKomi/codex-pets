@@ -6,7 +6,7 @@
   "portable_package": "pets/mild9-neko",
   "zip": "final/mild9-neko.zip",
   "spritesheet": "final/spritesheet-extended.webp",
-  "sha256": "c2b7bc00cd073cb7ce04edf506e0a5ce891af14b38064a65325e40f483a36b0a",
+  "sha256": "9b42032e66f5acfa36904fa5b3dc3b4bb5f617fa7b5c8f4e2ab45ab66b120e82",
   "generation": "Built-in OpenAI imagegen, exact model identifier unavailable",
   "standard_review": "qa/standard-visual-qa.json",
   "final_review": "qa/final-visual-qa.json",
@@ -27,5 +27,15 @@
     "Motion reviewed in ordered frames, not live Codex app playback.",
     "Intermediate gaze distinctions and two continuity diff outliers accepted by visual review.",
     "Worker cap required reuse of target-blind reviewers; see execution notes."
-  ]
+  ],
+  "latest_repair": {
+    "path": "repairs/idle-single-cigarette",
+    "changed_cell": [
+      0,
+      4
+    ],
+    "all_other_87_cells_pixel_identical": true,
+    "visual_qa": "pass",
+    "cleanup": "Only newly generated cell cleaned; prior approved pixels retained"
+  }
 }

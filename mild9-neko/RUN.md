@@ -16,3 +16,5 @@ One cleanup invocation failed with MemoryError before writing output. The same u
 Independent visual review passes all nine states, the smoking action, anatomy and all sixteen direction quadrants. Blind majority passes all14 direction pairs. Subtle intermediate directions and two continuity metric outliers are accepted visual warnings, not exact angular guarantees. Ordered frame sequences were inspected; real-time Codex app playback was not tested.
 
 Portable package: ../pets/mild9-neko. ZIP: final/mild9-neko.zip. Installed: C:/Users/hawki/.codex/pets/mild9-neko. Existing Mild6, Mild8 and Mimi packages remain unchanged. Source art, prompts and QA history remain in this repository for provenance and recovery.
+
+Idle correction: see repairs/idle-single-cigarette. The fifth idle frame now has one cigarette in the hand and no cigarette at the lips during exhalation. Only that cell changed; the other87 atlas cells are pixel-identical.

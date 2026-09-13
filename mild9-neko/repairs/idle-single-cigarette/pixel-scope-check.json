@@ -1,0 +1,12 @@
+{
+  "ok": true,
+  "changed_cells": [
+    [
+      0,
+      4
+    ]
+  ],
+  "unchanged_cells": 87,
+  "gaze_cells_pixel_identical": true,
+  "all_other_idle_frames_pixel_identical": true
+}

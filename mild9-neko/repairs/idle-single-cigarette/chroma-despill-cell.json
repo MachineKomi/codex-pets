@@ -1,0 +1,19 @@
+{
+  "ok": true,
+  "input": "C:\\codex-pets\\mild9-neko\\repairs\\idle-single-cigarette\\frame-04-raw.png",
+  "output": "C:\\codex-pets\\mild9-neko\\repairs\\idle-single-cigarette\\frame-04-clean.png",
+  "chroma_key": "#00FF00",
+  "algorithm": "edge-local-chroma-spill-suppression",
+  "strength": 1,
+  "edge_radius": 5,
+  "spill_tolerance": 0.15,
+  "minimum_saturation": 0.1,
+  "changed_pixels": 1617,
+  "decontaminated_pixels": 1615,
+  "spill_suppressed_pixels": 1617,
+  "rejected_pixels": 0,
+  "changed_by_cell": {
+    "r0c0": 1617
+  },
+  "alpha_preserved": true
+}

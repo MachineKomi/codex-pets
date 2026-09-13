@@ -639,3 +639,7 @@ State requirements:
 Clean extraction: crisp opaque edges, safe padding, no scenery, text, guide marks, checkerboard, shadows, glows, motion blur, speed lines, dust, detached effects, stray pixels, or chroma-key colors inside the pet.
 
 Cigarette remains attached at lips without smoke in this state. Follow canonical Mild9 clothing; Mild6 source is motion only.
+
+## Idle single-cigarette correction
+
+See repairs/idle-single-cigarette/prompt.md and its before/after evidence. The edited standard frame supersedes source idle frame04.
