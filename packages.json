@@ -2,6 +2,15 @@
   "schemaVersion": 1,
   "pets": [
     {
+      "id": "mild6-neko",
+      "displayName": "Mild6 Neko",
+      "path": "pets/mild6-neko",
+      "spriteVersionNumber": 2,
+      "width": 1536,
+      "height": 2288,
+      "spritesheetSha256": "3acd592dfa0f4abb752fa7c65e28a32603e7dafd498bff06d26575341c566a9c"
+    },
+    {
       "id": "mild8-neko",
       "displayName": "Mild8 Neko",
       "path": "pets/mild8-neko",

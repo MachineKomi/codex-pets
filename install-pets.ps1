@@ -1,6 +1,7 @@
 [CmdletBinding()]
 param(
     [string]$CodexHome = $(if ($env:CODEX_HOME) { $env:CODEX_HOME } else { Join-Path $HOME '.codex' }),
+    [string[]]$Pet,
     [switch]$Force
 )
 
@@ -9,6 +10,11 @@ $sourceRoot = Join-Path $PSScriptRoot 'pets'
 $destinationRoot = Join-Path ([IO.Path]::GetFullPath($CodexHome)) 'pets'
 $packages = @(Get-ChildItem -LiteralPath $sourceRoot -Directory)
 if ($packages.Count -eq 0) { throw 'No pet packages found.' }
+if ($Pet) {
+    $unknown = @($Pet | Where-Object { $_ -notin $packages.Name })
+    if ($unknown.Count -gt 0) { throw "Unknown pet: $($unknown -join ', '). Available: $($packages.Name -join ', ')" }
+    $packages = @($packages | Where-Object { $_.Name -in $Pet })
+}
 
 # Validate every package and detect conflicts before copying anything.
 $plan = foreach ($package in $packages) {

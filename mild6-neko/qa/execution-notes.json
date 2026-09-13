@@ -1,0 +1,7 @@
+{
+  "fresh_worker_limit_reached": true,
+  "error": "collab spawn failed: agent thread limit reached",
+  "recovery": "Existing workers process one standard visual job per turn. Parent will handle gaze generation if fresh workers remain unavailable.",
+  "blindness_plan": "Existing reviewers must not inspect Mild6 gaze prompts or labeled gaze images before randomized axis classification. Any worker reuse will be disclosed in QA records rather than described as fresh context.",
+  "requirements_preserved": ["built-in imagegen only for visual generation", "canonical identity grounding", "one coherent source per look row", "full clothing coverage", "deterministic edges and registration", "explicit semantic and independent direction review"]
+}

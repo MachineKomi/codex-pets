@@ -1,0 +1,23 @@
+{
+  "ok": true,
+  "review_method": "Independent target-blind pair review followed by labeled cleaned ordered-cell inspection; no real-time playback claim",
+  "warnings": ["Near-axis intermediate yaw or pitch differences are subtle at pet size, especially 022.5, 067.5, 112.5, 157.5, 202.5, 292.5 and 337.5; all have correct observed quadrant."],
+  "directions": [
+    {"direction":"000","expected":"up","observed":"up","pass":true,"reason":"Broadly frontal nose points toward screen top; raised chin exposes its underside and eyes point above the horizontal eye line."},
+    {"direction":"022.5","expected":"up-right","observed":"up-right","pass":true,"reason":"Raised chin and upward eyes retain upward pitch while nose and face move slightly screen-right."},
+    {"direction":"045","expected":"up-right","observed":"up-right","pass":true,"reason":"Nose projects screen-right and raised visible eye/chin establish upward pitch."},
+    {"direction":"067.5","expected":"up-right","observed":"up-right","pass":true,"reason":"Strong rightward nose profile combines with slightly raised chin and gaze."},
+    {"direction":"090","expected":"screen-right","observed":"screen-right","pass":true,"reason":"Nose tip projects to the screen-right side of head center, with near eye and mouth aimed toward the image right edge and far cheek occluded."},
+    {"direction":"112.5","expected":"down-right","observed":"down-right","pass":true,"reason":"Rightward nose profile remains clear while chin and visible gaze lower slightly."},
+    {"direction":"135","expected":"down-right","observed":"down-right","pass":true,"reason":"Lowered eyes and chin indicate down while nose and face remain right of head center."},
+    {"direction":"157.5","expected":"down-right","observed":"down-right","pass":true,"reason":"Bowed head exposes crown and points eyes down, with a slight rightward nose/face bias."},
+    {"direction":"180","expected":"down","observed":"down","pass":true,"reason":"Broadly frontal head tucks chin toward chest and image bottom; crown is visible and eyes sit lowered beneath brows."},
+    {"direction":"202.5","expected":"down-left","observed":"down-left","pass":true,"reason":"Bowed head and lowered eyes retain down pitch while nose and face bias slightly screen-left."},
+    {"direction":"225","expected":"down-left","observed":"down-left","pass":true,"reason":"Tucked chin and downward gaze accompany a visible leftward nose and cheek turn."},
+    {"direction":"247.5","expected":"down-left","observed":"down-left","pass":true,"reason":"Nose projects screen-left while head and eyes remain visibly lowered."},
+    {"direction":"270","expected":"screen-left","observed":"screen-left","pass":true,"reason":"Nose tip and mouth project screen-left of head center and visible eye faces the image left edge; opposite cheek is occluded."},
+    {"direction":"292.5","expected":"up-left","observed":"up-left","pass":true,"reason":"Strong leftward nose profile combines with slightly lifted chin and gaze."},
+    {"direction":"315","expected":"up-left","observed":"up-left","pass":true,"reason":"Nose and visible eye aim screen-left while chin and gaze lift upward."},
+    {"direction":"337.5","expected":"up-left","observed":"up-left","pass":true,"reason":"Raised chin and upward eyes dominate, with residual leftward face and nose turn."}
+  ]
+}

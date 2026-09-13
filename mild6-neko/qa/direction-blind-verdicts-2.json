@@ -1,0 +1,90 @@
+{
+  "reviewer": "mild6_base",
+  "context": "Existing worker; no current Mild6 gaze labels/prompts viewed before this independent classification.",
+  "pairs": [
+    {
+      "pair": "horizontal-1",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "Raised nose/face left; nose/face right."
+    },
+    {
+      "pair": "horizontal-2",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "Left projecting nose; eyes/nose right."
+    },
+    {
+      "pair": "horizontal-3",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "Face opens right; left profile."
+    },
+    {
+      "pair": "horizontal-4",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "Nose right; lowered face/nose left."
+    },
+    {
+      "pair": "horizontal-5",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "Eye/nose right; lowered gaze/nose left."
+    },
+    {
+      "pair": "horizontal-6",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "Lowered nose/eyes right; lowered nose/eyes left."
+    },
+    {
+      "pair": "horizontal-7",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "Slight left bowed angle; clear right bowed angle."
+    },
+    {
+      "pair": "vertical-1",
+      "A": "up",
+      "B": "down",
+      "reason": "Chin underside/raised nose; tucked chin/lowered eyes."
+    },
+    {
+      "pair": "vertical-2",
+      "A": "down",
+      "B": "up",
+      "reason": "Chin/gaze toward ground; lifted chin/up eyes."
+    },
+    {
+      "pair": "vertical-3",
+      "A": "up",
+      "B": "down",
+      "reason": "Raised nose/chin; lowered nose/eyes and tucked chin."
+    },
+    {
+      "pair": "vertical-4",
+      "A": "up",
+      "B": "down",
+      "reason": "Slight raised chin/up eyes; slight lowered chin/down eyes."
+    },
+    {
+      "pair": "vertical-5",
+      "A": "up",
+      "B": "down",
+      "reason": "Up face/exposed neck; bowed head/lowered brow."
+    },
+    {
+      "pair": "vertical-6",
+      "A": "down",
+      "B": "up",
+      "reason": "Lowered chin/face; lifted chin/eye."
+    },
+    {
+      "pair": "vertical-7",
+      "A": "up",
+      "B": "down",
+      "reason": "Slight raised profile/eye; downward nose/eye and tucked chin."
+    }
+  ]
+}

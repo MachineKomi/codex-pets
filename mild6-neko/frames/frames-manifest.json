@@ -1,0 +1,39 @@
+{
+  "ok": true,
+  "chroma_key": {
+    "hex": "#00FF00",
+    "rgb": [
+      0,
+      255,
+      0
+    ],
+    "threshold": 96.0
+  },
+  "rows": [
+    {
+      "state": "jumping",
+      "frames": [
+        "C:\\codex-pets\\mild6-neko\\frames\\jumping\\00.png",
+        "C:\\codex-pets\\mild6-neko\\frames\\jumping\\01.png",
+        "C:\\codex-pets\\mild6-neko\\frames\\jumping\\02.png",
+        "C:\\codex-pets\\mild6-neko\\frames\\jumping\\03.png",
+        "C:\\codex-pets\\mild6-neko\\frames\\jumping\\04.png"
+      ],
+      "method": "stable-slots"
+    },
+    {
+      "state": "failed",
+      "frames": [
+        "C:\\codex-pets\\mild6-neko\\frames\\failed\\00.png",
+        "C:\\codex-pets\\mild6-neko\\frames\\failed\\01.png",
+        "C:\\codex-pets\\mild6-neko\\frames\\failed\\02.png",
+        "C:\\codex-pets\\mild6-neko\\frames\\failed\\03.png",
+        "C:\\codex-pets\\mild6-neko\\frames\\failed\\04.png",
+        "C:\\codex-pets\\mild6-neko\\frames\\failed\\05.png",
+        "C:\\codex-pets\\mild6-neko\\frames\\failed\\06.png",
+        "C:\\codex-pets\\mild6-neko\\frames\\failed\\07.png"
+      ],
+      "method": "stable-slots"
+    }
+  ]
+}

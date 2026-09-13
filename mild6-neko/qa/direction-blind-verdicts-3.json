@@ -1,0 +1,90 @@
+{
+  "reviewer": "mild6_base/left",
+  "context": "Existing worker; no current Mild6 gaze labels/prompts viewed before this independent classification.",
+  "pairs": [
+    {
+      "pair": "horizontal-1",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "Left nose/lifted chin; right nose/eyes."
+    },
+    {
+      "pair": "horizontal-2",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "Left nose profile; right nose/gaze."
+    },
+    {
+      "pair": "horizontal-3",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "Right nose beyond cheek; left profile."
+    },
+    {
+      "pair": "horizontal-4",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "Right face/nose; left lowered nose."
+    },
+    {
+      "pair": "horizontal-5",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "Right eye/nose; left downturned face."
+    },
+    {
+      "pair": "horizontal-6",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "Lowered nose/eye right; lowered face left."
+    },
+    {
+      "pair": "horizontal-7",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "Bowed nose/gaze left of center; bowed head right."
+    },
+    {
+      "pair": "vertical-1",
+      "A": "up",
+      "B": "down",
+      "reason": "Lifted chin underside/up eyes; tucked chin/crown/down eyes."
+    },
+    {
+      "pair": "vertical-2",
+      "A": "down",
+      "B": "up",
+      "reason": "Floorward head/gaze; upward chin/nose."
+    },
+    {
+      "pair": "vertical-3",
+      "A": "up",
+      "B": "down",
+      "reason": "Above-horizontal nose/eyes; chin/gaze down."
+    },
+    {
+      "pair": "vertical-4",
+      "A": "up",
+      "B": "ambiguous",
+      "reason": "A subtly lifts nose/chin; B near level, tired eyelids alone insufficient."
+    },
+    {
+      "pair": "vertical-5",
+      "A": "up",
+      "B": "down",
+      "reason": "Back-lean/raised chin; tucked chin/lowered eyes."
+    },
+    {
+      "pair": "vertical-6",
+      "A": "down",
+      "B": "up",
+      "reason": "Downward nose/chin; left face lifts nose/gaze."
+    },
+    {
+      "pair": "vertical-7",
+      "A": "ambiguous",
+      "B": "down",
+      "reason": "A near-level left profile insufficient vertical cue; B bowed/down nose."
+    }
+  ]
+}

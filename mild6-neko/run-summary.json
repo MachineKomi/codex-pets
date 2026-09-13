@@ -1,0 +1,25 @@
+{
+  "complete": true,
+  "displayName": "Mild6 Neko",
+  "generation": "built-in OpenAI imagegen; exact model identifier unavailable",
+  "package": "pets/mild6-neko",
+  "zip": "mild6-neko/final/mild6-neko.zip",
+  "installed": "C:/Users/hawki/.codex/pets/mild6-neko",
+  "sha256": "3acd592dfa0f4abb752fa7c65e28a32603e7dafd498bff06d26575341c566a9c",
+  "qa": "All standard states, coverage, 16 direction semantics, blind majority, continuity, alpha and atlas format passed. See qa/ for accepted subtle-angle warnings.",
+  "verification": [
+    "ZIP entries byte-equivalent to package",
+    "selective install and idempotent rerun",
+    "all-three install",
+    "installed atlas v2 validation"
+  ],
+  "limitations": [
+    "Existing target-blind reviewers reused because worker cap prevented fresh contexts.",
+    "Motion inspected as ordered sequences; real-time Codex playback not tested."
+  ],
+  "retained_history": [
+    "First row10 source rejected for wrong final two quadrants; coherent full row regenerated.",
+    "Jump and failed extraction corrected to stable shared scale.",
+    "Raw sources and intermediate QA retained."
+  ]
+}

@@ -1,0 +1,1 @@
+{"attempt":1,"row":"look-row-10","verdict":"fail","reason":"Final two upper-left poses instead project nose and gaze screen-right, creating wrong quadrant and reversal.","action":"Regenerate complete coherent row with strong left-half facial lock; no individual cell patching.","packaging_eligible":false}

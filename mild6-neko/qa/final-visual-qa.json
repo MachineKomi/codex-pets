@@ -1,0 +1,24 @@
+{
+  "ok": true,
+  "standard_qa": "pass",
+  "coverage": "pass",
+  "direction_qa": "pass",
+  "review_method": "Cleaned contact sheet and ordered frame sequences plus direction sheet and independent blind-pair evidence; no real-time playback or in-app runtime claim",
+  "standard_states": {
+    "idle": "pass: quiet subtle face/breathing variation",
+    "running-right": "pass: right-facing alternating gait",
+    "running-left": "pass: left-facing alternating gait",
+    "waving": "pass: hand rises and waves with feet planted",
+    "jumping": "pass: corrected shared scale preserves crouch, ascent, apex and descent",
+    "failed": "pass: corrected shared scale lowers the defeated slump without enlarging the head",
+    "waiting": "pass: expectant asking hands distinct from idle",
+    "running": "pass: temple and forehead concentration without locomotion",
+    "review": "pass: attentive inspecting postures and chin contact"
+  },
+  "coverage_detail": "Opaque oversized shirt and full-length joggers cover torso and legs in every reviewed standard and directional cell; no cleavage, midriff, navel, thigh or underwear exposure.",
+  "identity_anatomy": "Consistent mature face, pale blonde dark-root hair, warm tan skin, baggy stained clothes and white socks; limbs, feet, tail and lip cigarette remain connected and unclipped in reviewed sequences.",
+  "continuity": "Clockwise direction family progresses through correct quadrants without major reversal; lower-body anchors remain stable and row boundaries have no major jump.",
+  "chroma": "Closed: final validator and edge-local despill report pass; alpha preserved and no further cleanup requested.",
+  "accepted_warnings": ["Near-axis direction differences are subtle at pet size; exact equal angular visual increments are not asserted.", "Motion was reviewed as ordered frames, not real-time playback in the Codex app."],
+  "errors": []
+}
